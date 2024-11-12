@@ -1,9 +1,9 @@
 pipeline{
 	agent any
 	stages {
-		stage("bacot"){
+		stage("inisudadigithub"){
 			steps{
-				echo "my jenkins pipeline"
+				echo "ini jenkins ppiipeline kelompok saya"
 			}
 		}
 	}
